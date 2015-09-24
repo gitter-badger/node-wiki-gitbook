@@ -1,6 +1,8 @@
 關於本書
 =======
 
+[![Join the chat at https://gitter.im/tngan/node-wiki-gitbook](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tngan/node-wiki-gitbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 這是一本關於 Node.js 技術的開放源碼電子書，我們使用 GitBook 維護電子書內容，並交由 GitBook自動線上發佈。本書提供 PDF、EPUB、MOBI 及 HTML 等格式，您除了可以在網站檢視本書所有內容，也可以將電子書下載至閱讀器保存。
 
 本書的線上閱讀網址，與 GitBook 資料同步更新。
